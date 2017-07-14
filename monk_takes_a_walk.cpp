@@ -3,10 +3,9 @@ using namespace std;
 
 int main()
 {
-  int t, pos=0;
+  int t, pos, count;
   string str;
   cin >> t;
-  int count = 0;
   while(t--)
   {
     cin >> str;
